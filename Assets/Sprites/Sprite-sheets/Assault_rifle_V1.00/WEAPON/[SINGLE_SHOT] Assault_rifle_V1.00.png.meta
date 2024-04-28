@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 2e499f7a10a90d84ba233c9a6a1af6d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_0'
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0193b758201c39b4494534a38864397c
+      internalID: 415164334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_1'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ae974bd9b839a4d85f33d3ef072143
+      internalID: 1735606396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_2'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82767677584af04395f23e121df361b
+      internalID: 1196979188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_3'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e4547d22a71f84fab015147505f7a1
+      internalID: 964365829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_4'
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d4cb623671244aa592d9267e05ff7
+      internalID: -767491670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_5'
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6093b2f402857144191aa22422fc1fb3
+      internalID: -400789255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_6'
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d1187ea4b45e44a17ca5ae7441f13
+      internalID: 1359096180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_7'
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe97acaa74a010c4d96fb2f46a6b7ae4
+      internalID: 1511685971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_8'
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c1981b70c35c43a496d66eb67ff2e
+      internalID: 768221072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_9'
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67045597b8857846bf396bb959cb517
+      internalID: 1910582268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_10'
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db9841dd53d3554094872d577ab36b6
+      internalID: 1063344338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_11'
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd04daf4bf61244d8868393e011666f
+      internalID: -1570936869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_12'
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfe439669498324f9813b0bcd6df1c9
+      internalID: 2118359697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_13'
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cb14b5f46f7a448bfd893bacd4a649
+      internalID: 350824683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_14'
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9772b3e28aa1ec478297a7136448535
+      internalID: -460511170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[SINGLE_SHOT] Assault_rifle_V1.00_15'
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 9
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761e635d0a918a94382aebf67f19a6d9
+      internalID: -1782130853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[SINGLE_SHOT] Assault_rifle_V1.00_0': 415164334
+      '[SINGLE_SHOT] Assault_rifle_V1.00_1': 1735606396
+      '[SINGLE_SHOT] Assault_rifle_V1.00_10': 1063344338
+      '[SINGLE_SHOT] Assault_rifle_V1.00_11': -1570936869
+      '[SINGLE_SHOT] Assault_rifle_V1.00_12': 2118359697
+      '[SINGLE_SHOT] Assault_rifle_V1.00_13': 350824683
+      '[SINGLE_SHOT] Assault_rifle_V1.00_14': -460511170
+      '[SINGLE_SHOT] Assault_rifle_V1.00_15': -1782130853
+      '[SINGLE_SHOT] Assault_rifle_V1.00_2': 1196979188
+      '[SINGLE_SHOT] Assault_rifle_V1.00_3': 964365829
+      '[SINGLE_SHOT] Assault_rifle_V1.00_4': -767491670
+      '[SINGLE_SHOT] Assault_rifle_V1.00_5': -400789255
+      '[SINGLE_SHOT] Assault_rifle_V1.00_6': 1359096180
+      '[SINGLE_SHOT] Assault_rifle_V1.00_7': 1511685971
+      '[SINGLE_SHOT] Assault_rifle_V1.00_8': 768221072
+      '[SINGLE_SHOT] Assault_rifle_V1.00_9': 1910582268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
